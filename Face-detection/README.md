@@ -1,4 +1,4 @@
-# 😊 AI Face Detection System
+#  AI Face Detection System
 
 A desktop application built using Python and OpenCV to detect human faces from images and webcam in real time.
 
