@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+outputs/
+uploads/
+
+data/database.db
+
+models/__pycache__/
+utils/__pycache__/
