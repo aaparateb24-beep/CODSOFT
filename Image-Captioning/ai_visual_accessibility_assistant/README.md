@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Visual Accessibility Assistant
 
 An intelligent, production-grade assistive tool designed to help visually impaired individuals perceive and interact with their surroundings. The application combines advanced local computer vision models with state-of-the-art multimodal Generative AI to deliver captions, object bounding boxes, detailed alt-text descriptions, scene classification, speech narration, and an interactive question-answering chat interface.
